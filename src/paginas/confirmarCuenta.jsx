@@ -2,7 +2,7 @@
 import { useParams,Link } from "react-router-dom"
 //useffect ejecuta un codigo una vez que el contenido este listo es como el domcontentloaded
 import {useEffect, useState} from 'react'
-import Alerta from "../components/alerta"
+import Alerta from "../components/Alerta"
 //con axios podemos hacer peticiones a las url con nuestra api
 import ClienteAxios from "../config/axios";
 
